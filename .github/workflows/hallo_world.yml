@@ -39,7 +39,7 @@ jobs:
   hello-world-windows:
     runs-on: windows-latest
         
-     steps:
+    steps:
       - name: Print Hello World Windows
         run: echo 'Hello world rodando no wondows'
       
